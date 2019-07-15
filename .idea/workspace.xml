@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99070a83-79a7-4c17-9b34-c5a9c341e7b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/g8/default.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/g8/default.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/g8/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/g8/project/plugins.sbt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/g8/default.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -81,8 +78,6 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/modules/libgdx-sbt-project-g8_5061.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/libgdx-sbt-project-g8_5061-build.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/dbnavigator.xml" />
@@ -90,6 +85,9 @@
         <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
         <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
         <option value="$PROJECT_DIR$/.idea/sbt.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules/libgdx-sbt.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/libgdx-sbt-build.iml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_10_7_jar.xml" />
       </list>
     </option>
   </component>
@@ -144,6 +142,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,16 +285,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/build.properties">
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/g8/default.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
