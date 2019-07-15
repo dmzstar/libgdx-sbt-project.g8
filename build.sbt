@@ -12,4 +12,4 @@ name := "libgdx-sbt"
 
 version := "0.2.0"
 
-organization := "com.hagerbot"
+organization := "com.weifangames"
